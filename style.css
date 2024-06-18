@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+    font-family: "Inter", sans-serif;
+    
+}
+.header-line{
+    padding-top: 20px;
+    display: flex;
+
+}
+.nav-item{
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 30px;
+    margin-left: 50px;
+    transition: color 0.3s linear;
+
+}
+.nav-item:hover{
+    color: rgb(204, 58, 189);
+}
+h1{
+    color: rgb(217, 81, 217);
+    line-height: 45px;
+    font-size: 50px;
+    margin-left: 60px;
+}
+h2{
+    color: black;
+    font-weight: 400;
+    margin-left: 60px;
+    font-size: 35px;
+    margin-top: -20px;
+}
+.button{
+    background-color: violet;
+    color: black;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 115px;
+    transition: color 0.3s linear;
+    border-radius: 50px;
+    
+}
+.button:hover{
+    color: white;
+}
+h3{
+    color: rgb(217, 81, 217);
+    font-size: 40px;
+    margin-left: 470px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+h4{
+    color: black;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 500px;
+    
+    
+}
+h5{
+    color: rgb(217, 81, 217); 
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    
+}
+.contacts  form .box{
+    display: flex;
+    margin: 1rem 0rem 2rem;
+    border-radius: 0.5rem;
+    padding: 0.8rem;
+    margin-left: 520px;
+    width: 400px;
+
+}
+.bon{
+    background-color: violet;
+    color: black;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 600px;
+    transition: color 0.3s linear;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    
+}
+
+.bon:hover{
+    color: white;
+}
+.telephone{
+    margin-top: -255px;
+}
+.adress{
+    margin-left: 54px;
+    margin-top: -20px;
+}
+.picture2{
+    margin-top: -120px;
+    margin-right: 100px;
+}
